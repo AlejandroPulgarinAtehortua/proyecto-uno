@@ -15,3 +15,8 @@ Este es un texto **importante**
     * Listar carpetas: ls
     * Eliminar carpeta: rm -rf
 * Markdown básico
+* Manejo básico de archivos
+    * Abrir archivo
+    * Leer contenido
+    * Modificar contenido
+    * Cerrar archivo
